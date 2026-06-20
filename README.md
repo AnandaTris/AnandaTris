@@ -16,6 +16,15 @@
 
 ---
 
+### Work Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| AI Research & Development Intern *(incoming)* | Marsh | Aug 2026 – Dec 2026 |
+| Product Management Intern (R&D) | Rohde & Schwarz | Sep 2025 – Jan 2026 |
+
+---
+
 ### What I'm up to
 
 - **AI R&D Intern @ Marsh** *(incoming Aug 2026)* — scoping GenAI, NLP & agentic use cases for risk automation
