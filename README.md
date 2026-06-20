@@ -72,8 +72,8 @@
 
 ### Research
 
-- **Climate Resilient Citizenry** *(Feb – Jul 2025)* — Field-based human study across 1,000 Singapore households on climate resilience and citizen behaviour
-- **AI Studio** *(May – Aug 2025)* — Data labelling for a culturally-aware AI translation system
+- **Climate Resilient Citizenry** *(May 2025 – Jan 2026)* — Field-based human study across 1,000 Singapore households on climate resilience and citizen behaviour
+- **AI Studio** *(May 2025 – Jan 2026)* — Data labelling and dataset curation for a culturally-aware AI translation system
 
 ---
 
