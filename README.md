@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ananda 👋</h1>
+<h1 align="center">Hi, I'm Ananda</h1>
 
 <p align="center">
   <b>CS & Design @ SUTD · AI Builder · SUTD Undergraduate Merit Scholar</b><br>
@@ -16,15 +16,15 @@
 
 ---
 
-### 🔭 What I'm up to
+### What I'm up to
 
-- 🧠 **AI R&D Intern @ Marsh** *(incoming Aug 2026)* — scoping GenAI, NLP & agentic use cases for risk automation
-- 🎓 **B.Eng. CS & Design @ SUTD** — SUTD Undergraduate Merit Scholar
-- 🤝 **Head of University @ SENTRE** — leading a 5,000+ member Indonesian student community; 20+ mentees secured ASEAN scholarships
+- **AI R&D Intern @ Marsh** *(incoming Aug 2026)* — scoping GenAI, NLP & agentic use cases for risk automation
+- **B.Eng. CS & Design @ SUTD** — SUTD Undergraduate Merit Scholar
+- **Head of University @ SENTRE** — leading a 5,000+ member Indonesian student community; 20+ mentees secured ASEAN scholarships
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
@@ -35,10 +35,11 @@
 | **FPGA Math Quiz** | 2-player math quiz game — FSM in Lucid HDL, 7-segment displays, LED matrix. **2nd Place** across ~30 teams. | Lucid HDL · Vivado · Alchitry Au |
 | **Meowtivation** | Android task manager with gamified cat progression system. **3rd Place**, Outstanding Project. | Java · Firebase · Firestore |
 | **Water Fountain Locator** | Full-stack geolocation app shipped in 24h at SUTD What The Hack. **3rd / 50 teams (~250 participants)**. | Flask · Vercel · PythonAnywhere |
+| **Energy Consumption ML Model** | Multi-linear regression model for household energy consumption in Singapore. | Python · Pandas · NumPy · Matplotlib |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -69,7 +70,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### Research
+
+- **Climate Resilient Citizenry** *(Feb – Jul 2025)* — Field-based human study across 1,000 Singapore households on climate resilience and citizen behaviour
+- **AI Studio** *(May – Aug 2025)* — Data labelling for a culturally-aware AI translation system
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnandaTris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -78,10 +86,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaTris&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-<p align="center">
-  <i>Always open to collabs, research, and building cool things 🚀</i>
 </p>
