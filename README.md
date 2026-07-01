@@ -21,6 +21,7 @@
 | Role | Company | Period |
 |------|---------|--------|
 | AI Research & Development Intern *(incoming)* | Marsh | Aug 2026 – Dec 2026 |
+| Product Management Intern | 8x(SF) | June 2026 – Aug 2026 |
 | Product Management Intern (R&D) | Rohde & Schwarz | Sep 2025 – Jan 2026 |
 
 ---
